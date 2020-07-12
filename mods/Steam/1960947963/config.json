@@ -1,0 +1,13 @@
+{
+  "Compactness": 1,
+  "CustomCardSize": {
+    "fontSizeDecrease": 2,
+    "minHeight": 16,
+    "maxImageSize": 16,
+    "shadowBarBorder": {
+      "Item1": 10.0,
+      "Item2": 6.0
+    }
+  },
+  "InfoCardOpacity": 0.8
+}

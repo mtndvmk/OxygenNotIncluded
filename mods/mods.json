@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1713359495",
+        "version": 1556703197,
+        "title": "Speed Control"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706181611",
+        "version": 1567687702,
+        "title": "Geyser Calculated Average Output Tooltip"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1714866600",
+        "version": 1587633043,
+        "title": "Vietnamese Language Pack (AP-399948-D) Continues By ChuotChanel"
+      },
+      "status": 1,
+      "enabled": false,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1715709940",
+        "version": 1574847664,
+        "title": "Rotate Everything ( 旋转一切 )"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835851890",
+        "version": 1585147185,
+        "title": "Drag Tool Area"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1983504552",
+        "version": 1588804965,
+        "title": "Thermal Tooltips"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960996649",
+        "version": 1588804779,
+        "title": "Show Building Ranges"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1897096779",
+        "version": 1587187244,
+        "title": "Research Manager // by @Ony "
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1863428350",
+        "version": 1588804886,
+        "title": "Sweep By Type"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1715248368",
+        "version": 1588880977,
+        "title": "Deconstructable POI Props"
+      },
+      "status": 1,
+      "enabled": false,
+      "crash_count": 2,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706080287",
+        "version": 1567688955,
+        "title": "Show Industrial Machinery Tag"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1832319118",
+        "version": 1583451659,
+        "title": "Suppress Notifications"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1855960639",
+        "version": 1567898921,
+        "title": "[DEPRECATED] Enable All Mods Button"
+      },
+      "status": 1,
+      "enabled": false,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1823287206",
+        "version": 1566362255,
+        "title": "Favorites Category"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1881925531",
+        "version": 1588804497,
+        "title": "Queue for Sinks"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960947963",
+        "version": 1587078048,
+        "title": "Better Info Cards"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1831438994",
+        "version": 1588804181,
+        "title": "Critter Inventory"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1878896484",
+        "version": 1585962172,
+        "title": "Better Automation Overlay"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1875446986",
+        "version": 1584008976,
+        "title": "Bleachstone Refinery"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1823182964",
+        "version": 1567688494,
+        "title": "Palmera Tree"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2014558219",
+        "version": 1586278622,
+        "title": "Automation Expanded"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1748601256",
+        "version": 1583665837,
+        "title": "Longer Bridges"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717534457",
+        "version": 1567689109,
+        "title": "Wallpaper"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717463209",
+        "version": 1567686205,
+        "title": "Bigger Camera Zoom Out"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2094698134",
+        "version": 1591496321,
+        "title": "Airlock Door"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2126548651",
+        "version": 1592081054,
+        "title": "Stirling Engine"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    }
+  ]
+}
